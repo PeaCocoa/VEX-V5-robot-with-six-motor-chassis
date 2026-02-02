@@ -1,6 +1,6 @@
 # [VEX-V5-robot-with-six-motor-chassis](https://github.com/PeaCocoa/VEX-V5-robot-with-six-motor-chassis/tree/main)
 
-![](https://img.shields.io/badge/%E7%8F%8A%E7%91%9A%E6%99%BA%E8%83%BD%E4%BD%93-OK-red) ![](https://img.shields.io/badge/latest%20version-v0.1_Beta-blue)
+![](https://img.shields.io/badge/%E7%8F%8A%E7%91%9A%E6%99%BA%E8%83%BD%E4%BD%93-OK-red)
 
 ## intro
 
